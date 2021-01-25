@@ -1,0 +1,30 @@
+{
+  "name": "@mird-ui/cheesiir",
+  "version": "0.0.1",
+  "description": "Define, Update & Enjoy your theme.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mird-ui/cheesiir.git"
+  },
+  "keywords": [
+    "Typescript",
+    "Theme",
+    "React"
+  ],
+  "author": "Mird-ui Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mird-ui/cheesiir/issues"
+  },
+  "homepage": "https://github.com/mird-ui/cheesiir#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.22",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
